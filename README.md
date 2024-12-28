@@ -26,7 +26,7 @@ Make sure you have Python 3.6+ installed. The following libraries are required t
    - You can clone the repository using `git` or simply download the project files.
    
    ```bash
-   git clone https://github.com/yourusername/sonar-rock-vs-mine.git
+   git clone https://github.com/GauravHandge/EchoHunter/tree/main
 
 
 **Run the Streamlit App:**
